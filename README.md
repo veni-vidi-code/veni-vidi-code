@@ -11,7 +11,7 @@ Here are some of the languages i am most familiar with
 
 ### Mathematical Programming and Markup Languages
 
-![LATEX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 [![Maple](https://img.shields.io/badge/Maple-035682?style=for-the-badge)](https://de.maplesoft.com/)
 [![GAP4](https://img.shields.io/badge/GAP4-242867?style=for-the-badge)](https://www.gap-system.org/Download/)
 
