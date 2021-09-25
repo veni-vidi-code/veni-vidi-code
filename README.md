@@ -35,7 +35,8 @@ Here are some of the languages i am most familiar with
 
 Please note that due to some issues regarding my old account i was unable to move all of my commit history over. For my early commit history visit [my old account](https://github.com/The-Bow-Hunter)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=veni-vidi-code&count_private=true&show_icons=true&theme=dracula)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=veni-vidi-code&count_private=true&show_icons=true&theme=dracula">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veni-vidi-code&count_private=true&show_icons=true&theme=dracula"
 
 ## Contact Me
 
