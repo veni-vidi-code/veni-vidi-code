@@ -31,13 +31,17 @@ Here are some of the languages i am most familiar with
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
+
+## Contact Me
+
+If you would like to contact me just write me an [Email](mailto:tom.mucke@web.de) or write me on Discord (TM#5784)
+
+
 ## Github Statistics
 
 Please note that due to some issues regarding my old account i was unable to move all of my commit history over. For my early commit history visit [my old account](https://github.com/The-Bow-Hunter)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=veni-vidi-code&count_private=true&show_icons=true&theme=dracula">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veni-vidi-code&count_private=true&show_icons=true&theme=dracula"
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veni-vidi-code&count_private=true&show_icons=true&theme=dracula">
 
-## Contact Me
 
-If you would like to contact me just write me an [Email](mailto:tom.mucke@web.de) or write me on Discord (TM#5784)
