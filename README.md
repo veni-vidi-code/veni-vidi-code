@@ -1,6 +1,5 @@
 ![Repository Count Badge](https://badges.pufler.dev/repos/veni-vidi-code)
 ![Years Badge](https://badges.pufler.dev/years/veni-vidi-code)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/veni-vidi-code)
 
 
 ## Hi there 👋
