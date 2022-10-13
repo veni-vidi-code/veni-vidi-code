@@ -1,5 +1,5 @@
-![Repository Count Badge](https://badges.pufler.dev/repos/veni-vidi-code)
-![Years Badge](https://badges.pufler.dev/years/veni-vidi-code)
+![Repository Count Badge](https://badges.strrl.dev/repos/veni-vidi-code)
+![Years Badge](https://badges.strrl.dev/years/veni-vidi-code)
 
 
 ## Hi there 👋
